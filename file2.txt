@@ -1,1 +1,2 @@
 Diser Dokument ist fur branch2
+Пробна редакція файлу через web інтерфейс
